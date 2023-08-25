@@ -16,7 +16,7 @@
   </div>
 
   <br>
-  <h1 align="center">Social Networks</h1>
+  <h1 align="center">Contact Information</h1>
   <a href = "mailto:davilla.witte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ros%C3%A2ngela-d-avilla-2060b6282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br><br>
