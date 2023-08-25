@@ -1,6 +1,6 @@
 <div>
-  <img style="margin-right: 4px;" width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=davillawitte&show_icons=true&theme=great-gatsby&count_private=true"/>
-  <img width="38%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davillawitte&layout=compact&theme=great-gatsby"/>
+  <img style="margin-right: 4px;" width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=davillawitte&hide_border=true&show_icons=true&theme=great-gatsby&count_private=true&bg_color=0d1117"/>
+  <img width="38%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davillawitte&hide_border=true&layout=compact&theme=great-gatsby&bg_color=0d1117"/>
 </div>
 
 <div  align="center"> 
