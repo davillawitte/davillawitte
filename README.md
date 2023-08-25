@@ -3,6 +3,10 @@
   <img width="38%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davillawitte&hide_border=true&layout=compact&theme=great-gatsby&bg_color=0d1117"/>
 </div>
 
+<div align="center" style="color: #c9d1d9; text-align: justify;">
+  👋 Hello, I'm Rosângela D'Avilla, a Full Stack Web Developer with a Bachelor's degree in Information Technology from the Federal University of Rio Grande do Norte (UFRN). Additionally, I possess a specialization in Full Stack Web Development, focusing on Angular and .NET technologies. I am dedicated to continuous learning, and as a result, my repositories showcase a variety of learning projects spanning different programming languages. Please feel free to explore them at your convenience.
+</div>
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <h1 align="center">Skills</h1>
