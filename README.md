@@ -1,6 +1,6 @@
 <div>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davillawitte&show_icons=true&theme=great-gatsby&count_private=true"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davillawitte&layout=compact&theme=great-gatsby"/>
+  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davillawitte&layout=compact&theme=great-gatsby"/>
 </div>
 
 <div  align="center"> 
@@ -15,6 +15,15 @@
     <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
+
+  <h1 align="center">Social Networks</h1>
+    <a href = "mailto: work.luigi.fonseca@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+      <img width="25" src="linkedin.svg">
+    </a>
+</div>
 
 ### Skills:
 <div style="display: inline_block"><br>
