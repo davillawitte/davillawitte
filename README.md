@@ -6,12 +6,14 @@
 </div>
 
 <div align="center" style="color: #c9d1d9; text-align: justify;">
-  👋 Hello, I'm Rosângela D'Avilla, a Full Stack Web Developer with a Bachelor's degree in Information Technology from the Federal University of Rio Grande do Norte (UFRN). Additionally, I possess a specialization in Full Stack Web Development, focusing on Angular and .NET technologies. I am dedicated to continuous learning, and as a result, my repositories showcase a variety of learning projects spanning different programming languages. Please feel free to explore them at your convenience.
+<!--   👋 Hello, I'm Rosângela D'Avilla, a Full Stack Web Developer with a Bachelor's degree in Information Technology from the Federal University of Rio Grande do Norte (UFRN). Additionally, I possess a specialization in Full Stack Web Development, focusing on Angular and .NET technologies. I am dedicated to continuous learning, and as a result, my repositories showcase a variety of learning projects spanning different programming languages. Please feel free to explore them at your convenience. -->
+  👋 Hello, I'm Rosângela D'Avilla. Currently, I am more active in the field of UX and UI, primarily focusing on prototyping in Figma. This area forms the main focus of my professional profile. In parallel, I also have experience and qualifications as a Full Stack Web Developer, holding a Bachelor's degree in Information Technology from the Federal University of Rio Grande do Norte (UFRN) and specializing in web development, with an emphasis on Angular and .NET technologies. Although full stack web development is a secondary skill at the moment, I remain committed to continuous learning in this area, as demonstrated by the various projects in my repositories. Feel free to explore my work.
 </div>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <h1 align="center">Skills</h1>
+    <img align="center" alt="Rosângela-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img align="center" alt="David-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
     <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/dotnet/brand/master/logo/dotnet-logo.png">
     <img align="center" alt="David-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -31,6 +33,5 @@
   ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
   ![SQL Server](https://img.shields.io/badge/-sql%20server-0D1117?style=for-the-badge&logo=Microsoft%20SQL%20Server&labelColor=0D1117)&nbsp;
-  ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp; 
 </div>
 
